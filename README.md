@@ -1,5 +1,5 @@
 # Binary-Logistic-Classification-2021
-Loan Approval Prediction in Banking
+Loan Approval Prediction in Banking by **Simran Goswami**
 
 **AIM:** Financial Institutions make various loans and advances to businesses, corporations, and individuals. The interest on these loans is their primary source of income. They grant a loan after a lengthy verification process. However, it does not guarantee that the applicant will be able to repay the loan without difficulty. Thus, the risks associated with making a loan approval decision are enormous. Through this research, the student researcher hopes to develop a model that can provide our client “Dream Housing Finance” with a fair idea about their customers’ segments who are eligible for the home loan amounts. It would also allow them to automate the loan eligibility procedure in real-time based on the information provided by a consumer through an application form.
 
